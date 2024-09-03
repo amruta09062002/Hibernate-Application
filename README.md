@@ -19,8 +19,8 @@ This project demonstrates the use of Hibernate ORM (Object-Relational Mapping) f
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/hibernate-project.git
-cd hibernate-project
+- git clone https://github.com/your-username/hibernate-project.git
+- cd hibernate-project
 
 ##Technologies Used
 - Hibernate: 5.x or later
